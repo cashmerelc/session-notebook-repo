@@ -1,4 +1,4 @@
-- GitHub Markdown Notes
+# GitHub Markdown Notes
 
 ---
 
